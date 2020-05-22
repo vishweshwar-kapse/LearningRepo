@@ -4,5 +4,7 @@ done..
 YEsss..!!
 I am so happy now..!!
 
-Adding another Feature here..!!
-This feature is going to make the users happy..!!
+I am adding the following Features
+Feature 1
+Feature 2
+Feature 3
